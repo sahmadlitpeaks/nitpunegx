@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none" aria-hidden="true">
+  <!-- Sun-ray dots, alternating teal & pink -->
+  <g>
+    <circle cx="40" cy="6"  r="2" fill="#1ec0c0"/>
+    <circle cx="52" cy="9"  r="1.6" fill="#ec4a8b"/>
+    <circle cx="62" cy="16" r="2" fill="#1ec0c0"/>
+    <circle cx="70" cy="26" r="1.6" fill="#ec4a8b"/>
+    <circle cx="74" cy="40" r="2" fill="#1ec0c0"/>
+    <circle cx="70" cy="54" r="1.6" fill="#ec4a8b"/>
+    <circle cx="62" cy="64" r="2" fill="#1ec0c0"/>
+    <circle cx="52" cy="71" r="1.6" fill="#ec4a8b"/>
+    <circle cx="40" cy="74" r="2" fill="#1ec0c0"/>
+    <circle cx="28" cy="71" r="1.6" fill="#ec4a8b"/>
+    <circle cx="18" cy="64" r="2" fill="#1ec0c0"/>
+    <circle cx="10" cy="54" r="1.6" fill="#ec4a8b"/>
+    <circle cx="6"  cy="40" r="2" fill="#1ec0c0"/>
+    <circle cx="10" cy="26" r="1.6" fill="#ec4a8b"/>
+    <circle cx="18" cy="16" r="2" fill="#1ec0c0"/>
+    <circle cx="28" cy="9"  r="1.6" fill="#ec4a8b"/>
+  </g>
+  <!-- Baby head circle outline (teal) -->
+  <circle cx="40" cy="40" r="20" stroke="#1ec0c0" stroke-width="2.6" fill="#ffffff"/>
+  <!-- Tuft of hair -->
+  <path d="M33 25 Q40 19 47 25" stroke="#1ec0c0" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <!-- Eyes (closed, smiling arcs) -->
+  <path d="M32 39 Q34.5 41.5 37 39" stroke="#1ec0c0" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M43 39 Q45.5 41.5 48 39" stroke="#1ec0c0" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Cheeks (pink) -->
+  <circle cx="31" cy="46" r="2.2" fill="#f5a3c5" opacity=".7"/>
+  <circle cx="49" cy="46" r="2.2" fill="#f5a3c5" opacity=".7"/>
+  <!-- Smile -->
+  <path d="M35 49 Q40 53 45 49" stroke="#1ec0c0" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>
